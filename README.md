@@ -2,7 +2,7 @@
 
 ## Introduction
 
-There `recurring_moment.rb` has a broken implementation of `RecurringMoment`. There is a correct suite of RSpec tests for the class. Fix the module so that the tests pass!
+ `recurring_moment.rb` has a broken implementation of `RecurringMoment`. There is a correct suite of RSpec tests for the class. Fix the module so that the tests pass!
 
 ## Getting Started
 
